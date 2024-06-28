@@ -1,0 +1,74 @@
+.navbar-brand{
+    font-size: 25px;
+}
+/* NEWS CARD CSS */
+.cardColor{
+    background-color: rgb(221, 230, 213);
+}
+.card{
+    border-color: rgb(221, 230, 213);
+}
+.cardText{
+    color: rgb(20, 14, 0);
+}
+.cardText p{
+    font-family: sans-serif;
+}
+.expandable-text{
+    /* max-height: 95px;
+    overflow-y: hidden; */
+    text-align: justify;
+}
+/* .expandable-text.expand {
+    max-height: none;
+} */
+.card-footer p{
+    color: #a9a9a9;
+    font-style: italic;
+    font-size: 14px;
+}
+img{
+    border-radius: 0% !important;
+}
+.imgCrop{
+    width: 100%;
+    height: 300px;
+}
+/* .newsTitle{
+    height: 80px;
+} */
+
+/* FOOTER CSS */
+
+footer {
+    font-family: sans-serif;
+    padding-bottom: 20px;
+}
+footer .row{
+    padding: 0 100px;
+}
+small, .ab{
+    color: rgb(104, 118, 132);
+}
+.ab {
+    font-size: medium;
+}
+small{
+    font-size: 15px;
+}
+.about {
+    padding-right: 70px;
+    margin-top: 35px;
+}
+.about a{
+    text-decoration: none;
+    color: rgb(49, 48, 115);
+}
+.about a:hover{
+    text-decoration: none;
+    color: rgb(50, 48, 200);
+}
+.icons a{
+    margin-right: 7px;
+    font-size: 22px;
+}
